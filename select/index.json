@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "村人S",
+  "base_artist": "z²",
+  "createdAt": "2026-01-13T10:33:10.574913Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "村人S",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_村人S_z2.txt"
+    }
+  ]
+}
